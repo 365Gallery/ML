@@ -1,6 +1,6 @@
 # ML
 
-### Develop Repository 
+### Development 
 Repository for tensorflow-fast-style-transfer
 - https://github.com/BangYoon/tensorflow-fast-style-transfer
 - Train COCO Datset with gpu 2080 SUPER
@@ -10,10 +10,9 @@ pretrained model
 - download: https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ?usp=sharing
 <br>
 
-### Process with Colab
+### Reference
 fast-tf.ipynb
-- Train train2014 dataset with gpu
-- Reference : Fast Style Transfer in TensorFlow https://github.com/lengstrom/fast-style-transfer
+- Fast Style Transfer in TensorFlow https://github.com/lengstrom/fast-style-transfer
 <br>
 
 tf-fast-cpu.ipynb
@@ -21,4 +20,4 @@ tf-fast-cpu.ipynb
 <br>
 
 tf-img-mix.ipynb
-- Refernce : Neural Style Transfer https://github.com/titu1994/Neural-Style-Transfer.git
+- Neural Style Transfer https://github.com/titu1994/Neural-Style-Transfer.git
