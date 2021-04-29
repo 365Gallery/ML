@@ -1,18 +1,24 @@
 # ML
 
+### Develop Repository 
+Repository for tensorflow-fast-style-transfer
+- https://github.com/BangYoon/tensorflow-fast-style-transfer
+- Train COCO Datset with gpu 2080 SUPER
+- Train time for 2 epochs with 6 batch size is 5~6 hours
+
 pretrained model
 - download: https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ?usp=sharing
 <br>
 
+### Process with Colab
 fast-tf.ipynb
-- Fast Style Transfer in TensorFlow https://github.com/lengstrom/fast-style-transfer
-- for using conda in Colab https://github.com/RogerHeederer/chatbot/blob/master/UsingColabWithConda.ipynb
-- model example: wave.ckpt
+- Train train2014 dataset with gpu
+- Reference : Fast Style Transfer in TensorFlow https://github.com/lengstrom/fast-style-transfer
 <br>
 
 tf-fast-cpu.ipynb
-- model example: scream.ckpt
+- Test images with cpu
 <br>
 
 tf-img-mix.ipynb
-- Neural Style Transfer https://github.com/titu1994/Neural-Style-Transfer.git
+- Refernce : Neural Style Transfer https://github.com/titu1994/Neural-Style-Transfer.git
